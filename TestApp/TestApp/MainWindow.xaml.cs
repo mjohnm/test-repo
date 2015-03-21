@@ -23,6 +23,8 @@ namespace TestApp
         public MainWindow()
         {
             InitializeComponent();
+
+            //stuff
         }
     }
 }
