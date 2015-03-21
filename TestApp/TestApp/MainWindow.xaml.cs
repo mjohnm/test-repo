@@ -27,9 +27,18 @@ namespace TestApp
             //stuff
             featureA();
             featureA();
+            featureB();
+            featureB();
         }
 
         public void featureA()
+        {
+
+
+            
+        }
+
+        public void featureB()
         {
 
         }
