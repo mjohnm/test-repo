@@ -25,6 +25,13 @@ namespace TestApp
             InitializeComponent();
 
             //stuff
+            featureA();
+            featureA();
+        }
+
+        public void featureA()
+        {
+
         }
     }
 }
